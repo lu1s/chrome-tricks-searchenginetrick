@@ -1,33 +1,34 @@
-# K.load episodes
-## Google
-Google is one of the most amazing search engines out there,
-however, it faces a big security concern when it comes to 
-privacy and tracking. For this, you could find useful, fun, 
-and even more productive (for research and mkt studies), to
-use different versions of the Alphabet's hyper gigant whose
-AI already have a human organ's name (creepy but true).
-### tl;dr
-Use these to use different Google's search engine versions.
+# K.load("security") episodes
+## Episode 1: Common Internet Hack Attacks
+### About
+DNS, DNSSEC, LATAM, LACNIC, NIC
+### Brief
+The Internet we use today provides services for every industry in
+the globalized industries of the digital and physical worlds. However,
+it faces a big security concern when it comes to privacy rights.
+One of the 
 
-## Google search engine query for domain hardcoding:
-Follow the steps to add a new search engine in your Chrome
-settings, and after doing so (if you really want to forget
-about your countrie's Google domain name, feel free to remove
-it from the list. This query harcodes both the domain name
-and the character encoding (to enforce utf-8).
-### tl;dr
-If you are freak about privacy read the paragraph above.
-Otherwise ignore and just add this as a new search engine:
+##### A Solution [https://developers.google.com/speed/public-dns/](from Google)
+For this, you could find useful, fun, and even more productive (for 
+research and KMKT studies) to use different versions of the Alphabet's 
+products and services. Yet, since the current stability of the Internet's
+DNS in certain places over planet Earth, most commonly in countries that
+are under development like LATAM (LACNIC), suffer from several DNS
+redirections and attacks that end up in copyright infringements, impersonation,
+spionage, phishing, scam, and other forms of information misuse and unlawful
+activities. For this. Google provides an open and public DNS service that allows
+every person with Internet access that has direct connection to the IPv4 8.8.8.8
+and 8.8.4.4, and/or the IPv6 2001:4860:4860:0:0:0:0:8888 and 2001:4860:4860:0:0:0:0:8844
+can set it up to avoid this kind of attacks or reduce the risk of being a victim of that.
+
+For more information go to [https://developers.google.com/speed/public-dns/](the Official Google's Public DNS Service) page.
+
+```tldr
+Set up Google's the following Google's public DNSs
+for increased speed and security.
+IPv4: 8.8.8.8
+      8.8.4.4
+IPv6: 2001:4860:4860:0:0:0:0:8888
+      2001:4860:4860:0:0:0:0:8844
 ```
-https://www.google.com.au/search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}{google:contextualSearchVersion}&ie=UTF-8
-```
-### Final thing
-The query above shows the Google Australia fully qualified domain name.
-It was picked randomly and you just need to put the working Google's search
-domain name. Use Google services according to the terms and conditions and
-being concern about their privacy policy to avoid account suspension or
-other form of security actions that could be taken from Alphabet, Inc as
-prevention. Keep the "ethical hacking" concept in mind first.
-#### tl;dr
-Use this for good and bye
 
